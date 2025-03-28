@@ -4,7 +4,7 @@ class Animal{
     private $nom;
     private $edat;
 
-    public function__construct($nomP,$edatP) {
+    public function __construct($nomP,$edatP) {
         $this->nom = $nomP;
         $this->edat = $edatP;
     }
